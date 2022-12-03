@@ -1,4 +1,4 @@
-Tener instalado python (versiones 3.6-3.10)
+Tener instalado python (versiones 3.7-3.10)
 Tenes instalado git
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
@@ -14,5 +14,4 @@ pip install mediapipe
 https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
 pip install msvc-runtime
 
-pip install scikit-ke
 pip install scikit-learn==0.22.0
